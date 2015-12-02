@@ -12,6 +12,7 @@ var result = (function(){
       counter--;
     }
 
+    // Position for part 2
     if (counter === -1){
       position = i + 1;
       break;
